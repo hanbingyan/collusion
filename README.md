@@ -1,7 +1,5 @@
 # Algorithmic collusion and experience replay
 
---------------------------------------------------------------------------------------------
-
 This repository contains code for the paper ["Understanding algorithmic collusion with experience replay"](https://arxiv.org/abs/2102.09139). Feel free to contact me for any problems in the code.
 
 - [Dependencies](#dependencies)
